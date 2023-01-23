@@ -15,8 +15,8 @@ Let's jump in and get the ToDo app up and running in Azure. When you are finishe
 The following prerequisites are required to use this application. Please ensure that you have them all installed locally.
 
 - [Azure Developer CLI](https://aka.ms/azd-install)
-- [.NET SDK 6.0](https://dotnet.microsoft.com/download/dotnet/6.0) - for the API backend
-- [Node.js with npm (16.13.1+)](https://nodejs.org/) - for the Web frontend
+- [.NET SDK 7.0](https://dotnet.microsoft.com/download/dotnet/7.0) - for the API backend
+- [Node.js with npm (16.16.0+)](https://nodejs.org/) - for the Web frontend
 
 ### Quickstart
 

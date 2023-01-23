@@ -1,0 +1,28 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=17ec58e2_002Dde3e_002D4c0d_002Db75d_002D99489c1fd7e8/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Test1" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::1CA1094E-AEC9-445A-BBE9-221DF3A17BA9::net7.0::X_labs_BeerQuest.IntegrationTests.CreateSearchIndexTexts&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=baf62746_002Df1c7_002D49dc_002D8514_002D9d7d3bae0832/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="GivenValidCsvByteArrayRatingsMapShouldCorrectlyMapAllRatingsToDoubles" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;Or&gt;&#xD;
+    &lt;TestAncestor&gt;&#xD;
+      &lt;TestId&gt;xUnit::46720D2F-C6E6-41E8-BAB6-508FB112F53D::net7.0::X_labs_BeerQuest.UnitTests.GeographicPointCsvMappingTests.GivenValidCsvByteArrayGeographicPointMapShouldCorrectlyMapAllGeographicProperties&lt;/TestId&gt;&#xD;
+      &lt;TestId&gt;xUnit::46720D2F-C6E6-41E8-BAB6-508FB112F53D::net7.0::X_labs_BeerQuest.UnitTests.GeographicPointCsvMappingTests.GivenInValidCsvByteArrayGeographicPointMapShouldThrowError&lt;/TestId&gt;&#xD;
+      &lt;TestId&gt;xUnit::46720D2F-C6E6-41E8-BAB6-508FB112F53D::net7.0::X_labs_BeerQuest.UnitTests.AddressCsvMappingTests.GivenInValidCsvByteArrayAddressMapShouldThrowError&lt;/TestId&gt;&#xD;
+      &lt;TestId&gt;xUnit::46720D2F-C6E6-41E8-BAB6-508FB112F53D::net7.0::X_labs_BeerQuest.UnitTests.AddressCsvMappingTests.GivenValidCsvByteArrayAddressMapShouldCorrectlyMapAllGeographicProperties&lt;/TestId&gt;&#xD;
+      &lt;TestId&gt;xUnit::46720D2F-C6E6-41E8-BAB6-508FB112F53D::net7.0::X_labs_BeerQuest.UnitTests.SocialPresenceCsvMappingTests&lt;/TestId&gt;&#xD;
+      &lt;TestId&gt;xUnit::46720D2F-C6E6-41E8-BAB6-508FB112F53D::net7.0::X_labs_BeerQuest.UnitTests.LocationMapCsvMappingTests&lt;/TestId&gt;&#xD;
+      &lt;TestId&gt;xUnit::46720D2F-C6E6-41E8-BAB6-508FB112F53D::net7.0::X_labs_BeerQuest.UnitTests.ReviewMapCsvMappingTests&lt;/TestId&gt;&#xD;
+    &lt;/TestAncestor&gt;&#xD;
+    &lt;Project Location="C:\SourceCode\test\X-labs-BeerQuest\X-labs-BeerQuest.IntegrationTests" Presentation="&amp;lt;X-labs-BeerQuest.IntegrationTests&amp;gt;" /&gt;&#xD;
+    &lt;Project Location="C:\SourceCode\test\X-labs-BeerQuest\X-labs-BeerQuest.UnitTests" Presentation="&amp;lt;X-labs-BeerQuest.UnitTests&amp;gt;" /&gt;&#xD;
+  &lt;/Or&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=ca3412b7_002D6c62_002D49da_002Da490_002Da0c6a759afac/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="RatingsCsvMappingTests" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::46720D2F-C6E6-41E8-BAB6-508FB112F53D::net7.0::X_labs_BeerQuest.UnitTests.ClassMaps.RatingsCsvMappingTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::1CA1094E-AEC9-445A-BBE9-221DF3A17BA9::net7.0::X_labs_BeerQuest.IntegrationTests.CreateSearchIndexTexts.GivenFileWith2CorrectlyFormattedRowsSearchIndexShouldBeReCreated&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

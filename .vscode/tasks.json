@@ -26,7 +26,7 @@
             "type": "process",
             "args": [
                 "build",
-                "${workspaceFolder}/src/api/Todo.Api.csproj",
+                "${workspaceFolder}/src/api/X-labs-BeerQuest.Api/X-labs-BeerQuest.Api.csproj",
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary"
             ],
@@ -40,7 +40,7 @@
                 "watch",
                 "run",
                 "--project",
-                "${workspaceFolder}/src/api/Todo.Api.csproj"
+                "${workspaceFolder}/src/api/X-labs-BeerQuest.Api/X-labs-BeerQuest.Api.csproj"
             ],
             "problemMatcher": "$msCompile"
         },

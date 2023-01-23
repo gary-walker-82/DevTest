@@ -3,9 +3,12 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "@fluentui/react": "^8.73.0",
     "@microsoft/applicationinsights-react-js": "^3.3.4",
     "@microsoft/applicationinsights-web": "^2.8.4",
+    "@googlemaps/react-wrapper": "^1.1.35",
+    "@googlemaps/typescript-guards": "^2.0.3",
+    "bootstrap": "^5.2.3",
+    "sass": "^1.57.1",
     "axios": "^0.27.2",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
@@ -54,9 +57,10 @@
     "@typescript-eslint/eslint-plugin": "^5.27.1",
     "@typescript-eslint/parser": "^5.27.1",
     "dotenv": "^16.0.1",
-    "eslint": "^8.17.0",
+    "eslint": "^8.17.0",    
     "eslint-config-react-app": "^7.0.1",
     "if-node-version": "^1.1.1",
+
     "immer": "^9.0.14",
     "react-scripts": "^5.0.1",
     "typescript": "^4.7.3"

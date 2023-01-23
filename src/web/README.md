@@ -1,6 +1,6 @@
 # Getting Started with Create React App and Fluent UI
 
-This is a [Create React App](https://github.com/facebook/create-react-app) based repo that comes with Fluent UI pre-installed!
+This is a [Create React App](https://github.com/facebook/create-react-app) based repo using typescript!
 
 ## Setup
 

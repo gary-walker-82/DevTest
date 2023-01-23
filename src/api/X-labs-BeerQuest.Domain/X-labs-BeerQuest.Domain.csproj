@@ -1,0 +1,25 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <RootNamespace>X_labs_BeerQuest.Domain</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+
+	  <CodeAnalysisRuleSet>..\.sonarlint\xlabscsharp.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+
+	<ItemGroup>
+		<AdditionalFiles Include="..\.sonarlint\xlabs\CSharp\SonarLint.xml" Link="SonarLint.xml" />
+	</ItemGroup>
+
+	<ItemGroup>
+		<PackageReference Include="Azure.Search.Documents" Version="11.4.0" />
+		<PackageReference Include="Microsoft.Azure.Core.Spatial" Version="1.1.0" />
+		<PackageReference Include="Microsoft.Spatial" Version="7.6.4" />
+		<PackageReference Include="CsvHelper" Version="30.0.1" />
+		<PackageReference Include="FluentValidation" Version="11.4.0" />
+		<PackageReference Include="MediatR" Version="11.1.0" />
+	</ItemGroup>
+
+</Project>
